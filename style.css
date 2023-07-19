@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color:  #D1F2EB ;
+  color: #5F6A6A;
+  font-family: Courier ;
+
+}
+.center-words{
+  text-align: center;
+  font-size: 15px;
+  
+}
+/* customized the links*/
+a:link    { color: blue;  }
+a:visited { color: lightblue;   }
+a:hover   { color: pink; }
+a:active  { color: pink;  }
+

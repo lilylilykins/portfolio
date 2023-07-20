@@ -1,11 +1,32 @@
+/* overall page style*/
 html {
   height: 100%;
   width: 100%;
   background-color:  #D1F2EB ;
   color: #5F6A6A;
-  font-family: Courier ;
+  font-family: arial;
 
 }
+/* customized the title*/
+h1 {
+  font-family: sans-serif;
+  font-size: 50px;
+  
+}
+main {
+  font-size: 15px;
+  font-family: arial;
+  
+}
+.box {
+  width: 500px;
+  background:white;
+  padding: 20px;
+  border: 2px solid black;
+  margin: 20px;
+  
+}
+/* customized the contact/ footer */
 .center-words{
   text-align: center;
   font-size: 15px;
@@ -16,4 +37,3 @@ a:link    { color: blue;  }
 a:visited { color: lightblue;   }
 a:hover   { color: pink; }
 a:active  { color: pink;  }
-
